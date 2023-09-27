@@ -8,11 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04f390bc-fb74-44f1-aeef-9c6b50c33ca7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RoomPuzzle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RoomPuzzle/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RoomPuzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RoomPuzzle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/TestingMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/TestingMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomPuzzle.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/RoomPuzzle.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +125,7 @@
       <workItem from="1695444784902" duration="74000" />
       <workItem from="1695448634919" duration="1057000" />
       <workItem from="1695543628432" duration="4509000" />
+      <workItem from="1695804764128" duration="3543000" />
     </task>
     <servers />
   </component>
